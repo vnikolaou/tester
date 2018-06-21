@@ -26,6 +26,8 @@
 
 	<scm>
 		<connection></connection>
+		<developerConnection></developerConnection>
+		<url></url>
 	</scm>
 	<build>
 		<plugins>
