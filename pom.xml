@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pionware</groupId>
 	<artifactId>lib1</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>lib1</name>
 	<description>lib1</description>
 
@@ -27,6 +27,7 @@
 		<developerConnection>scm:git:ssh://git@github.com/vnikolaou/tester.git</developerConnection>
 		<url>http://github.com/vnikolaou/tester.git</url>
 
+    <tag>lib1-1.0.0</tag>
   </scm>
 	<build>
 		<plugins>
